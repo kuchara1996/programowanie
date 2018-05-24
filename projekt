@@ -1,0 +1,18 @@
+#include <cstdlib>
+#include <stdio.h>
+#include <math.h>
+
+void lostab (int tab[10][10] {
+  srand(time(NULL));
+  int a, b;
+  for (a=0; a<10; a++)
+  for (b=0; b<10; b++)
+  }
+  
+int main ()
+  {
+  int tablica[10][10];
+  //lostab();
+    
+  return 0; 
+  }
